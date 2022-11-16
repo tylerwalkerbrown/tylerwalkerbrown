@@ -17,7 +17,7 @@
   - Model tested at 92% accuracy and .83 AUC
   - Hypothesis Test (chi^2)
 
-[Python Guessing Game](https://github.com/tylerwalkerbrown/guessing_game)🎮
+[Python Guessing Game](https://github.com/tylerwalkerbrown/guessing_game) 🎮
   - Created Python program to guess a rand number between -100 to 100 
   - Stored player profile with number of guesses 
 
@@ -28,10 +28,10 @@
   - Aggregated functions
   - Subqueries using self made relational database
 
-[Stock Analysis](https://github.com/tylerwalkerbrown/Python_Analysis/blob/main/Stock%20Analysis.py)📈
+[Stock Analysis](https://github.com/tylerwalkerbrown/Python_Analysis/blob/main/Stock%20Analysis.py) 📈
   - Comparing Tesla to Bitcoin time series
 
-[SNHU WOBA](https://github.com/tylerwalkerbrown/SNHU_WOBA)⚾
+[SNHU WOBA](https://github.com/tylerwalkerbrown/SNHU_WOBA) ⚾
   - Calculating weighted on base average for SNHU baseball 
 ## In the process ⏳
   - Customer Segmentation on E-commerce store 
