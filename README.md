@@ -36,12 +36,12 @@
 ## In the process ⏳
   - Customer Segmentation on E-commerce store 
   - [Twitter Setiment Analysis](https://github.com/tylerwalkerbrown/Python_Analysis/blob/main/Twitter_sentiment_analysis.md)
-## Goals 
+## Goals 🥅
   - Reconstruct GitHub page/Add ReadMe to all analysis 
   - Obtain a Data Analyst position preferably in person/hybrid
   - Data Analyst 👉 Data Scientist
   - Work for a company that invests into further education  
-## Current Learnings
+## Current Learnings 📖
   - Tableau 
   - IBM Professional Data Analyst Certificate 
 <!--
