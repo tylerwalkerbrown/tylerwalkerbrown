@@ -38,7 +38,7 @@
   - Obtain a Data Analyst position preferably in person/hybrid
   - Data Analyst 👉 Data Scientist
   - Work for a company that invests into further education  
-## New Learnings
+## Current Learnings
   - Tableau 
   - IBM Professional Data Analyst Certificate 
 <!--
