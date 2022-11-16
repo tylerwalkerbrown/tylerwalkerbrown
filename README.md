@@ -30,6 +30,9 @@
 
 [Stock Analysis](https://github.com/tylerwalkerbrown/Python_Analysis/blob/main/Stock%20Analysis.py)
   - Comparing Tesla to Bitcoin time series
+
+[SNHU WOBA](https://github.com/tylerwalkerbrown/SNHU_WOBA)
+  - Calculating weighted on base average for SNHU baseball 
 ## In the process ⏳
   - Customer Segmentation on E-commerce store 
   - [Twitter Setiment Analysis](https://github.com/tylerwalkerbrown/Python_Analysis/blob/main/Twitter_sentiment_analysis.md)
