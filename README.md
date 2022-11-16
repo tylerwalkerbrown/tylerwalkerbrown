@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+Linkedin: https://www.linkedin.com/in/tylerbrownpsu/
 <!--
 **tylerwalkerbrown/tylerwalkerbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
