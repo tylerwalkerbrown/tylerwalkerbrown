@@ -21,7 +21,7 @@
   - Created Python program to guess a rand number between -100 to 100 
   - Stored player profile with number of guesses 
 
-[SQL Practice](https://github.com/tylerwalkerbrown/SQL_Code)
+[SQL Practice](https://github.com/tylerwalkerbrown/SQL_Code)😎
   - Examples of queries
   - Creating reports 
   - Reformatting table contents
