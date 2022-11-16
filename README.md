@@ -35,7 +35,7 @@
   - Calculating weighted on base average for SNHU baseball 
 ## In the process ⏳
   - Customer Segmentation on E-commerce store 
-  - [Twitter Setiment Analysis](https://github.com/tylerwalkerbrown/Python_Analysis/blob/main/Twitter_sentiment_analysis.md)
+  - [Twitter Sentiment Analysis](https://github.com/tylerwalkerbrown/Python_Analysis/blob/main/Twitter_sentiment_analysis.md)
 ## Goals 🥅
   - Reconstruct GitHub page/Add ReadMe to all analysis 
   - Obtain a Data Analyst position preferably in person/hybrid
