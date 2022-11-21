@@ -28,7 +28,7 @@
   - Aggregated functions
   - Subqueries using self made relational database
 
-[Stock Analysis](https://github.com/tylerwalkerbrown/Python_Analysis/blob/main/Stock%20Analysis.py) 📈
+[Stock Analysis](https://github.com/tylerwalkerbrown/Tesla_vs_Amazon) 📈
   - Comparing Tesla to Amazon time series
 
 [SNHU WOBA](https://github.com/tylerwalkerbrown/SNHU_WOBA) ⚾
