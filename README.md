@@ -14,8 +14,8 @@
 ## Portfolio  📊
 
 [Southern New Hampshire Baseball W/L Prediction](https://github.com/tylerwalkerbrown/SNHU_baseball_Analysis) ⚾
-  - Machine Learning models trained with advanced statistics from over 200 games to predict winning team (Random Forest)
-  - Model tested at 92% accuracy and .83 AUC
+  - Machine Learning models trained with advanced statistics from over 200 games to predict winning team (Logistic Regression)
+  - Model tested at 98% accuracy and .98 AUC
   - Hypothesis Test (chi^2)
 
 [Python Guessing Game](https://github.com/tylerwalkerbrown/guessing_game) 🎮
