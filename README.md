@@ -40,7 +40,6 @@
 ## Goals 🥅
   - Reconstruct GitHub page/Add ReadMe to all analysis 
   - Obtain a Data Analyst position preferably in person/hybrid
-  - Data Analyst 👉 Data Scientist
   - Work for a company that invests into further education  
 ## Current/Continuous Learnings 📖
   - Tableau 
