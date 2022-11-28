@@ -34,7 +34,7 @@
 
 [SNHU WOBA](https://github.com/tylerwalkerbrown/SNHU_WOBA) ⚾
   - Calculating weighted on base average for SNHU baseball 
-  - 
+ 
 [DataCamp Python Programming Practice](https://github.com/tylerwalkerbrown/Python-Programming)
   - Data Camp python programming career track practice
 ## In the process ⏳
