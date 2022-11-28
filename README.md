@@ -9,6 +9,7 @@
  - Continuous Learning 📚
  - NH Resident ⛰️
  - Lets Connect on [Linkedin](https://www.linkedin.com/in/tylerbrownpsu/)
+ - [Tableau Public](https://public.tableau.com/app/profile/tyler.brown4344)
  
 ## Portfolio  📊
 
@@ -41,9 +42,9 @@
   - Obtain a Data Analyst position preferably in person/hybrid
   - Data Analyst 👉 Data Scientist
   - Work for a company that invests into further education  
-## Current Learnings 📖
+## Current/Continuous Learnings 📖
   - Tableau 
-  - IBM Professional Data Analyst Certificate 
+  - Python Programming
 <!--
 **tylerwalkerbrown/tylerwalkerbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
