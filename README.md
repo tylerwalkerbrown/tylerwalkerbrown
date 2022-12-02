@@ -16,7 +16,6 @@
 [Southern New Hampshire Baseball W/L Prediction](https://github.com/tylerwalkerbrown/SNHU_baseball_Analysis) ⚾
   - Machine Learning models trained with advanced statistics from over 200 games to predict winning team (Logistic Regression)
   - Model tested at 98% accuracy and .98 AUC
-  - Hypothesis Test (chi^2)
 
 [Python Guessing Game](https://github.com/tylerwalkerbrown/guessing_game) 🎮
   - Created Python program to guess a rand number between -100 to 100 
