@@ -16,6 +16,7 @@
 [Southern New Hampshire Baseball Runs Prediction (Ensemble Learning)](https://github.com/tylerwalkerbrown/SNHU-Run-Opp-Runs-Prediction) ⚾
   - Machine Learning models using RandomForestClassifier and Logistic Regression
   - Predicted opponent runs at 92% accuracy and SNHU runs at 99% accuracy
+  - 
 [Python Guessing Game](https://github.com/tylerwalkerbrown/guessing_game) 🎮
   - Created Python program to guess a rand number between -100 to 100 
   - Stored player profile with number of guesses 
