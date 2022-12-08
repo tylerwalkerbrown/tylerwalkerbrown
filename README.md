@@ -35,6 +35,7 @@
   - Calculating weighted on base average for SNHU baseball 
 
 [Customer Segmentation on E-commerce store](https://github.com/tylerwalkerbrown/Customer_Demographics)
+  - Done with Shopify data collected at Old Cobblers Farm
  
 [DataCamp Python Programming Practice](https://github.com/tylerwalkerbrown/Python-Programming)
   - Data Camp python programming career track practice
