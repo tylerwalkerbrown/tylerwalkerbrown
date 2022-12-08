@@ -36,6 +36,9 @@
 
 [Customer Segmentation on E-commerce store](https://github.com/tylerwalkerbrown/Customer_Demographics)
   - Done with Shopify data collected at Old Cobblers Farm
+  - Census data collected from data.census.gov by county and merged Age/Sex
+  - uszipcode used for collecting demographics
+  - Weak results but deployable model
  
 [DataCamp Python Programming Practice](https://github.com/tylerwalkerbrown/Python-Programming)
   - Data Camp python programming career track practice
