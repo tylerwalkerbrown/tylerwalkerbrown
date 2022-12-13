@@ -42,6 +42,10 @@
  
 [DataCamp Python Programming Practice](https://github.com/tylerwalkerbrown/Python-Programming)
   - Data Camp python programming career track practice
+
+[Hypothesis Testing Examples](https://github.com/tylerwalkerbrown/Hypothesis-Testing)
+  - Some examples of hypothesis testing in Python 
+
 ## In the process ⏳
   - [Twitter Sentiment Analysis](https://github.com/tylerwalkerbrown/Python_Analysis/blob/main/Twitter_sentiment_analysis.md)
   - [Covid Economic Impact](https://github.com/tylerwalkerbrown/Covid-Impact-on-Economy)
