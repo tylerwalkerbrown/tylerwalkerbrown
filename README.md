@@ -40,7 +40,7 @@
   - uszipcode used for collecting demographics
   - Weak results but deployable model
  
-[DataCamp Python Programming Practice](https://github.com/tylerwalkerbrown/Python-Programming)
+[DataCamp/Codeacademy Python Practice](https://github.com/tylerwalkerbrown/Python-Programming)
   - Data Camp python programming career track practice
 
 [Hypothesis Testing Examples](https://github.com/tylerwalkerbrown/Hypothesis-Testing)
