@@ -50,6 +50,8 @@
 - ETL examples 
 - SQL connection localized in python 
 
+[Corbin vs Cole Project(MLB Pitchers)](https://github.com/tylerwalkerbrown/Corbin-and-Cole-Project)⏳
+
 ## In the process ⏳
   - [Twitter Sentiment Analysis](https://github.com/tylerwalkerbrown/Python_Analysis/blob/main/Twitter_sentiment_analysis.md)
   - [Covid Economic Impact](https://github.com/tylerwalkerbrown/Covid-Impact-on-Economy)
