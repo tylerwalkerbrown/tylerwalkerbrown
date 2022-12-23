@@ -13,6 +13,12 @@
  
 ## Portfolio  📊
 
+[Corbin vs Cole Project(MLB Pitchers)](https://github.com/tylerwalkerbrown/Corbin-and-Cole-Project)⚾
+- AB Testing
+- Probability
+- Warehousing 
+- Engineering
+
 [Southern New Hampshire Baseball Runs Prediction (Ensemble Learning)](https://github.com/tylerwalkerbrown/SNHU-Run-Opp-Runs-Prediction) ⚾
   - Machine Learning models using RandomForestClassifier and Logistic Regression
   - Predicted opponent runs at 92% accuracy and SNHU runs at 99% accuracy
@@ -43,14 +49,11 @@
 [DataCamp/Codeacademy Python Practice](https://github.com/tylerwalkerbrown/Python-Programming)
   - Data Camp python programming career track practice
 
-[Hypothesis Testing Examples](https://github.com/tylerwalkerbrown/Hypothesis-Testing)
-  - Some examples of hypothesis testing in Python 
-
 [ETL](https://github.com/tylerwalkerbrown/ETL)
 - ETL examples 
 - SQL connection localized in python 
 
-[Corbin vs Cole Project(MLB Pitchers)](https://github.com/tylerwalkerbrown/Corbin-and-Cole-Project)⏳
+
 
 ## In the process ⏳
   - [Twitter Sentiment Analysis](https://github.com/tylerwalkerbrown/Python_Analysis/blob/main/Twitter_sentiment_analysis.md)
