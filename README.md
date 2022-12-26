@@ -57,7 +57,7 @@
 
 
 ## In the process ⏳
-  - [World Series Prediction](https://github.com/tylerwalkerbrown/MLB-Word-Series-Win-Prediction))
+  - [World Series Prediction](https://github.com/tylerwalkerbrown/MLB-Word-Series-Win-Prediction)
   - [Covid Economic Impact](https://github.com/tylerwalkerbrown/Covid-Impact-on-Economy)
 ## Goals 🥅
   - Reconstruct GitHub page/Add ReadMe to all analysis 
