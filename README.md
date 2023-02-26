@@ -19,6 +19,9 @@
 - Result: Amazon warehouse recommendations based on geo-location 
 - Also perform eda/customer analysis/ statistical modeling 
 
+[Was Jordan Better Than Lebron?](https://github.com/tylerwalkerbrown/Lebron-or-Jordan)
+- Question: In the same amount of games who was better?
+- Result: After analysis it was determined that each player has their own statistical advantages...(report in link)
 
  
 ## Portfolio  📊
