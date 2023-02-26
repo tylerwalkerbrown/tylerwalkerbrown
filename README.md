@@ -10,6 +10,16 @@
  - NH Resident ⛰️
  - Lets Connect on [Linkedin](https://www.linkedin.com/in/tylerbrownpsu/)
  - [Tableau Public](https://public.tableau.com/app/profile/tyler.brown4344)
+
+
+## Latest Projects: 
+
+[Warehouse Optimization Analysis](https://github.com/tylerwalkerbrown/Warehouse-Optimization)
+- Problem: Locating the most effective distribution center to ship from by product.
+- Result: Amazon warehouse recommendations based on geo-location 
+- Also perform eda/customer analysis/ statistical modeling 
+
+
  
 ## Portfolio  📊
 
@@ -34,12 +44,6 @@
   - Census data collected from data.census.gov by county and merged Age/Sex
   - uszipcode used for collecting demographics
   - Weak results but deployable model
-
-[Warehouse Optimization Analysis](https://github.com/tylerwalkerbrown/Warehouse-Optimization)
-- Problem: Locating the most effective distribution center to ship from by product.
-- Result: Amazon warehouse recommendations based on geo-location 
-- Also perform eda/customer analysis/ statistical modeling 
-
 
 [SNHU WOBA](https://github.com/tylerwalkerbrown/SNHU_WOBA) ⚾
   - Calculating weighted on base average for SNHU baseball 
