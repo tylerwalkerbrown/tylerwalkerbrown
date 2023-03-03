@@ -23,6 +23,9 @@
 - Question: In the same amount of games who was better?
 - Result: After analysis it was determined that each player has their own statistical advantages...(report in link)
 
+ [Hypothesis Testing Work](https://github.com/tylerwalkerbrown/Hypothesis-Testing-Workbooks)
+ - Examples of some work I have completed 
+ 
  
 ## Portfolio  📊
 
