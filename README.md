@@ -7,7 +7,6 @@
  - PepsiCo Data Science Intern 🥤
  - Former Collegiate Athlete ⚾
  - Continuous Learning 📚
- - NH Resident ⛰️
  - Lets Connect on [Linkedin](https://www.linkedin.com/in/tylerbrownpsu/)
  - [Tableau Public](https://public.tableau.com/app/profile/tyler.brown4344)
 
