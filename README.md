@@ -61,15 +61,6 @@
 
 
 ## In the process ⏳
-  - [World Series Prediction](https://github.com/tylerwalkerbrown/MLB-Word-Series-Win-Prediction)
-  - [Covid Economic Impact](https://github.com/tylerwalkerbrown/Covid-Impact-on-Economy)
-## Goals 🥅
-  - Reconstruct GitHub page/Add ReadMe to all analysis 
-  - Obtain a Data Analyst position preferably in person/hybrid
-  - Work for a company that invests into further education  
-## Current/Continuous Learnings 📖
-  - Tableau 
-  - Python Programming
 <!--
 **tylerwalkerbrown/tylerwalkerbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
