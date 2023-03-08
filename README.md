@@ -18,11 +18,12 @@
 - Result: Amazon warehouse recommendations based on geo-location 
 - Also perform eda/customer analysis/ statistical modeling 
 
-[SQL Practice](https://github.com/tylerwalkerbrown/SQL_Code)😎
+[SQL Practice]([https://github.com/tylerwalkerbrown/SQL_Code](https://github.com/tylerwalkerbrown/SQL_Code/new/main])😎
   - Examples of queries
   - Creating reports 
   - Reformatting table contents
   - Aggregated functions
+  - Analysis 
   - Subqueries using self made relational database
 
  [Hypothesis Testing Work](https://github.com/tylerwalkerbrown/Hypothesis-Testing-Workbooks)
