@@ -9,7 +9,8 @@
  - Continuous Learning 📚
  - Lets Connect on [Linkedin](https://www.linkedin.com/in/tylerbrownpsu/)
  - [Tableau Public](https://public.tableau.com/app/profile/tyler.brown4344)
-
+## In the process ⏳
+[ML Real Estate Application](https://github.com/tylerwalkerbrown/Real-Estate-ML-Application)
 
 ## Highlighted Projects: 
 
@@ -30,7 +31,7 @@
  - Examples of some work I have completed 
  
  
-## Portfolio  📊
+## Old Workings  📊
 
 [Was Jordan Better Than Lebron?](https://github.com/tylerwalkerbrown/Lebron-or-Jordan)
 - Question: In the same amount of games who was better?
@@ -63,6 +64,7 @@
 
 
 ## In the process ⏳
+[ML Real Estate Application](https://github.com/tylerwalkerbrown/Real-Estate-ML-Application)
 <!--
 **tylerwalkerbrown/tylerwalkerbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
