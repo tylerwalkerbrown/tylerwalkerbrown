@@ -62,9 +62,6 @@
   - Machine Learning models using RandomForestClassifier and Logistic Regression
   - Predicted opponent runs at 92% accuracy and SNHU runs at 99% accuracy
 
-
-## In the process ⏳
-[ML Real Estate Application](https://github.com/tylerwalkerbrown/Real-Estate-ML-Application)
 <!--
 **tylerwalkerbrown/tylerwalkerbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
