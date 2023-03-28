@@ -33,20 +33,6 @@
  
 ## Old Workings  📊
 
-[Was Jordan Better Than Lebron?](https://github.com/tylerwalkerbrown/Lebron-or-Jordan)
-- Question: In the same amount of games who was better?
-- Result: After analysis it was determined that each player has their own statistical advantages...(report in link)
-
-
-[Corbin vs Cole Project(MLB Pitchers)](https://github.com/tylerwalkerbrown/Corbin-and-Cole-Project)⚾
-- Probability
-- Warehousing 
-- Engineering
-
-
-[Stock Analysis](https://github.com/tylerwalkerbrown/Tesla_vs_Amazon) 📈
-  - Comparing Tesla to Amazon time series
-
 
 [Customer Segmentation on E-commerce store](https://github.com/tylerwalkerbrown/Customer_Demographics)
   - Done with Shopify data collected at Old Cobblers Farm
@@ -58,9 +44,6 @@
   - Calculating weighted on base average for SNHU baseball 
 
 
-[Southern New Hampshire Baseball Runs Prediction (Ensemble Learning)](https://github.com/tylerwalkerbrown/SNHU-Run-Opp-Runs-Prediction) ⚾
-  - Machine Learning models using RandomForestClassifier and Logistic Regression
-  - Predicted opponent runs at 92% accuracy and SNHU runs at 99% accuracy
 
 <!--
 **tylerwalkerbrown/tylerwalkerbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
