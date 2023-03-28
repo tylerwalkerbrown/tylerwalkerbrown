@@ -38,7 +38,8 @@
   - Done with Shopify data collected at Old Cobblers Farm
   - Census data collected from data.census.gov by county and merged Age/Sex
   - uszipcode used for collecting demographics
-  - Weak results but deployable model
+  - Scraped 1200 rows of data through interation
+
 
 [SNHU WOBA](https://github.com/tylerwalkerbrown/SNHU_WOBA) ⚾
   - Calculating weighted on base average for SNHU baseball 
