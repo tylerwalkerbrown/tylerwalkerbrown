@@ -10,7 +10,7 @@
  - Lets Connect on [Linkedin](https://www.linkedin.com/in/tylerbrownpsu/)
  - [Tableau Public](https://public.tableau.com/app/profile/tyler.brown4344)
 ## In the process ⏳
-[ML Real Estate Application](https://github.com/tylerwalkerbrown/Real-Estate-ML-Application](https://github.com/tylerwalkerbrown/ML-Real-Estate-App)
+[ML Real Estate Application](https://github.com/tylerwalkerbrown/ML-Real-Estate-App)
 
 ## Highlighted Projects: 
 
