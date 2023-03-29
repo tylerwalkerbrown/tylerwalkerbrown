@@ -30,7 +30,10 @@
  [Hypothesis Testing Work](https://github.com/tylerwalkerbrown/Hypothesis-Testing-Workbooks)
  - Examples of some work I have completed 
  
- 
+ [ML Practice](https://github.com/tylerwalkerbrown/Machine-Learning-Practice)
+ - Examples of Different Machine Learning Models 
+ - Evalutation Metrics 
+ - Model Optimization 
 ## Old Workings  📊
 
 
