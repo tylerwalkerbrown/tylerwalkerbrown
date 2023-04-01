@@ -12,6 +12,16 @@
 ## In the process ⏳
 [ML Real Estate Application](https://github.com/tylerwalkerbrown/ML-Real-Estate-App)
 
+Showcases (Upon Completition):
+- Ensemble learning 
+- Feature Engineering 
+- Supervised / Unsupervised ML
+- Visualization 
+- Control Flow 
+- EDA
+- API uses 
+- SQL code 
+
 ## Highlighted Projects: 
 
 [Warehouse Optimization Analysis](https://github.com/tylerwalkerbrown/Warehouse-Optimization)
