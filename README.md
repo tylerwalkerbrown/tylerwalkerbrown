@@ -29,7 +29,7 @@ Showcases (Upon Completition):
 - Result: Amazon warehouse recommendations based on geo-location 
 - Also perform eda/customer analysis/ statistical modeling 
 
-[SQL Practice](https://github.com/tylerwalkerbrown/SQL_Code/blob/main/showcase.sql) 😎
+[SQL Practice](https://github.com/tylerwalkerbrown/SQL_Code) 😎
   - Examples of queries
   - Creating reports 
   - Reformatting table contents
