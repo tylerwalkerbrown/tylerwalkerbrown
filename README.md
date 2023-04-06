@@ -17,10 +17,9 @@ Showcases (Upon Completition):
 - Feature Engineering 
 - Supervised / Unsupervised ML
 - Visualization 
-- Control Flow 
 - EDA
 - API uses 
-- SQL code 
+- SQL querying 
 
 ## Highlighted Projects: 
 
