@@ -27,6 +27,11 @@ Showcases (Upon Completition):
 
 ## Highlighted Projects: 
 
+ [ML Practice](https://github.com/tylerwalkerbrown/ML-Practice)
+ - Examples of Different Machine Learning Models 
+ - Evalutation Metrics 
+ - Model Optimization 
+
 [Warehouse Optimization Analysis](https://github.com/tylerwalkerbrown/Warehouse-Optimization)
 - Problem: Locating the most effective distribution center to ship from by product.
 - Result: Amazon warehouse recommendations based on geo-location 
@@ -40,10 +45,7 @@ Showcases (Upon Completition):
  [Hypothesis Testing Work](https://github.com/tylerwalkerbrown/Hypothesis-Testing-Workbooks)
  - Examples of some work I have completed 
  
- [ML Practice](https://github.com/tylerwalkerbrown/Machine-Learning-Practice)
- - Examples of Different Machine Learning Models 
- - Evalutation Metrics 
- - Model Optimization 
+ 
 ## Old Workings  📊
 
 
