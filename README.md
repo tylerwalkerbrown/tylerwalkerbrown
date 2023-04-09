@@ -11,7 +11,7 @@
  - [Tableau Public](https://public.tableau.com/app/profile/tyler.brown4344)
 
 ## Certificates 
-- Showcase of all my certifications 
+- [Showcase of all my certifications](https://github.com/tylerwalkerbrown/Certificates)
 
 ## In the process ⏳
 [ML Real Estate Application](https://github.com/tylerwalkerbrown/ML-Real-Estate-App)
