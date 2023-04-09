@@ -9,6 +9,10 @@
  - Continuous Learning 📚
  - Lets Connect on [Linkedin](https://www.linkedin.com/in/tylerbrownpsu/)
  - [Tableau Public](https://public.tableau.com/app/profile/tyler.brown4344)
+
+## Certificates 
+- Showcase of all my certifications 
+
 ## In the process ⏳
 [ML Real Estate Application](https://github.com/tylerwalkerbrown/ML-Real-Estate-App)
 
