@@ -26,6 +26,9 @@ Showcases (Upon Completition):
 - SQL querying 
 
 ## Highlighted Projects: 
+[Southern New Hampshire University Machine Learning Application](https://github.com/tylerwalkerbrown/SNHU-ML-APP)
+ - Streamlit App
+
 
  [ML Practice](https://github.com/tylerwalkerbrown/ML-Practice)
  - Examples of Different Machine Learning Models 
