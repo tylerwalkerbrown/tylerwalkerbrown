@@ -28,6 +28,13 @@ Showcases (Upon Completition):
 ## Highlighted Projects: 
 [Southern New Hampshire University Machine Learning Application](https://github.com/tylerwalkerbrown/SNHU-ML-APP)
  - Streamlit App
+ - Used to predict the result in M/l based on key features that I feature engineered:
+    - 10-game average
+    - Overall BA
+    - Avg Homeruns
+    - Average ERA
+    - Location (H/A)
+    - Opponent Avg Error
 
 
  [ML Practice](https://github.com/tylerwalkerbrown/ML-Practice)
