@@ -26,7 +26,7 @@ Showcases (Upon Completition):
 - SQL querying 
 
 ## Highlighted Projects: 
-[Southern New Hampshire University Machine Learning Application](https://github.com/tylerwalkerbrown/SNHU-ML-APP)
+[Southern New Hampshire University Machine Learning Application](https://github.com/tylerwalkerbrown/First-ml-streamlit-app-snhu-baseball)
  - Streamlit App
  - Used to predict the result in M/l based on key features that I feature engineered:
     - 10-game average
