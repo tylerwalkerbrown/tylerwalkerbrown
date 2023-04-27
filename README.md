@@ -26,6 +26,9 @@ Showcases (Upon Completition):
 - SQL querying 
 
 ## Highlighted Projects: 
+[Fake News Detector](https://github.com/tylerwalkerbrown/Deep_Learning/blob/main/Fake_News_Detector.ipynb)
+ - RNN predicting at 99% accuracy 
+ 
 [Southern New Hampshire University Machine Learning Application](https://github.com/tylerwalkerbrown/First-ml-streamlit-app-snhu-baseball)
  - Streamlit App
  - Used to predict the result in M/l based on key features that I feature engineered:
