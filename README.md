@@ -25,6 +25,9 @@ Showcases (Upon Completition):
 - API uses 
 - SQL querying 
 
+[Mojo Analysis](https://github.com/tylerwalkerbrown/Mojo_Analysis)
+
+
 ## Highlighted Projects: 
 [Fake News Detector](https://github.com/tylerwalkerbrown/Deep_Learning/blob/main/Fake_News_Detector.ipynb)
  - RNN predicting at 99% accuracy 
