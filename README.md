@@ -25,7 +25,7 @@ Showcases (Upon Completition):
 - API uses 
 - SQL querying 
 
-[Mojo Analysis](https://github.com/tylerwalkerbrown/Mojo_Analysis)
+[Mojo Analysis](https://github.com/tylerwalkerbrown/Mojo-app)
 
 
 ## Highlighted Projects: 
