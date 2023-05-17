@@ -14,18 +14,12 @@
 - [Showcase of all my certifications](https://github.com/tylerwalkerbrown/Certificates)
 
 ## In the process ⏳
-[ML Real Estate Application](https://github.com/tylerwalkerbrown/ML-Real-Estate-App)
-
-Showcases (Upon Completition):
-- Ensemble learning 
-- Feature Engineering 
-- Supervised / Unsupervised ML
-- Visualization 
-- EDA
-- API uses 
-- SQL querying 
 
 [Mojo Analysis](https://github.com/tylerwalkerbrown/Mojo-app)
+- Customer Analysis 
+- Streamlit application 
+- Predictive Modeling 
+- Data Munging 
 
 
 ## Highlighted Projects: 
