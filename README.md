@@ -13,8 +13,8 @@
 ## Certificates 
 - [Showcase of all my certifications](https://github.com/tylerwalkerbrown/Certificates)
 
-## In the process ⏳
 
+## Highlighted Projects: 
 [Mojo Analysis](https://github.com/tylerwalkerbrown/Mojo-app)
 - Customer Analysis 
 - Streamlit application 
@@ -22,7 +22,6 @@
 - Data Munging 
 
 
-## Highlighted Projects: 
 [Fake News Detector](https://github.com/tylerwalkerbrown/Deep_Learning/blob/main/Fake_News_Detector.ipynb)
  - RNN predicting at 99% accuracy 
  
