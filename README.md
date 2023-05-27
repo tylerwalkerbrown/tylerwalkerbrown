@@ -20,6 +20,8 @@
 ## Certificates 
 - [Showcase of all my certifications](https://github.com/tylerwalkerbrown/Certificates)
 
+## Hackathons:
+- 
 
 ## Highlighted Projects: 
 [Mojo Analysis](https://github.com/tylerwalkerbrown/Mojo-app)
