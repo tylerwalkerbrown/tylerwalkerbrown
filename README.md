@@ -10,6 +10,13 @@
  - Lets Connect on [Linkedin](https://www.linkedin.com/in/tylerbrownpsu/)
  - [Tableau Public](https://public.tableau.com/app/profile/tyler.brown4344)
 
+## Most Recent Projects 
+[Deep Learning Stock Prediction](https://github.com/tylerwalkerbrown/stock_analysis/tree/main)
+- Trained RNN to detect news sentitment using financial news dataset to train on
+- Imported model into different notebook to predict on new data depending on what ticker and company you choose
+- Built model to predict but and sell times with economic indicators, stock performance and sentiment predicted with DL model
+
+
 ## Certificates 
 - [Showcase of all my certifications](https://github.com/tylerwalkerbrown/Certificates)
 
